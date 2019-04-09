@@ -1,13 +1,9 @@
 [
   {
-    "title": "选择计算器",
+    "title": "分期计算器",
     "links": [
       {
-        "to": "/development-tools", "name": "示例栏目",
-        "contents": [
-          { "to": "#end-to-end-testing", "name": "End-to-End Testing" },
-          { "to": "#eslint-and-prettier", "name": "ESLint and Prettier" }
-        ]
+        "to": "/fenqishengduoshao", "name": "免利息分期省多少"
       }
     ]
   }
