@@ -1,5 +1,13 @@
 [
   {
+    "title": "房贷计算器",
+    "links": [
+      {
+        "to": "/fangdaijisuanqi", "name": "房贷计算器"
+      }
+    ]
+  },
+  {
     "title": "分期计算器",
     "links": [
       {
