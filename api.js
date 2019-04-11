@@ -345,7 +345,7 @@ module.exports = getFiles()
       watchFiles()
     }
     const port = process.env.PORT || 4000
-    server.listen(port)
+    server.listen(port, '0.0.0.0')
     consola.ready(`Server listening on localhost:${port}`)
     return server
   })
